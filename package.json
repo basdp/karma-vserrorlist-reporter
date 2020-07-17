@@ -19,7 +19,7 @@
   "author": "Bas du Pre",
   "dependencies": {
     "mu2": "~0.5.19",
-    "lodash": "~2.2.0"
+    "lodash": "~4.17.19"
   },
   "peerDependencies": {
     "karma": ">=0.9"
